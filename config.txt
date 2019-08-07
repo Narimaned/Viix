@@ -1,0 +1,6 @@
+owner=539506830724825098
+prefix= v
+game=Miel | vplay
+stayinchannel=true
+songinstatus=false
+token=NjA4NjIwODcwNzc2Mzg5NjYz.XUq0vg.M9XrpWBRjBU1Qy383jP4qORzff8
